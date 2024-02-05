@@ -1,0 +1,46 @@
+li{display:block;
+    float: left;
+    word-spacing: 40px;
+    padding: 20PX;
+}
+ul{
+    display:block;
+    word-spacing: 40px;
+}
+.aa{
+    color: red;
+    background-color: aliceblue;
+}
+li a:hover{
+    color:red;
+}
+
+.for{
+   background-color: aliceblue;
+   width: 40%;
+   height: auto;
+  padding-left: 25%;
+  word-spacing: 40 px;
+  opacity: 5PX;
+   
+}
+.ee{
+    padding-left: 25%;
+}
+.thu{
+    text-align: right;
+    padding-left: 59%;
+}
+body{
+    background-image: url(1.jpg);
+    background-size: cover;
+    display: inline;
+    
+}
+.gf{
+    display: grid;
+    grid-column: 50% 50%;
+}
+.fgf{
+    
+}
